@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Firma Digital</title>
+</head>
+<body>
+    <h1>Registro de Entidades</h1>
+
+    <form action="/validar" method="post">
+        Cedula
+        <input type="number" name="cedula" id="cedula"><br><br>
+
+        Firma
+        <div>
+            <button id="btnGenerate">Generar firma</button>
+            <span id="generatedPassword" class="badge bg-success"></span>
+        </div>
+
+        <input type="submit" value="Registrar">
+    </form>
+
+</body>
+</html>

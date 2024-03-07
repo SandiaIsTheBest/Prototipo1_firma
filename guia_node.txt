@@ -1,0 +1,26 @@
+Fuente: https://www.youtube.com/watch?v=aHPeMYFh5Cg
+
+npm i -g npm-check-updates
+npm cache clean --force
+npm init
+descripcion "Crud Node + Mysql"
+author "TeamFirma" 
+
+-----Express--------
+npm i express morgan
+
+npm run dev
+//presenta un error de servidor pero se encuentra en ejecusion
+
+npm init -y
+
+npm install mysql express ejs 
+
+node index.js
+
+registro.ejs esun html 
+
+//Mostrar o renderizar la pagina creada en su ruta inicial 
+app.get(registro.ejs) 
+
+app.post para enviar a la base de datos 
