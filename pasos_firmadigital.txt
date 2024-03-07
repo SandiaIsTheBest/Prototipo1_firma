@@ -1,0 +1,13 @@
+Esta es una lista de pasos encontrados en el sitio web https://www.mifirmadigital.go.cr/  y entre paréntesis la opción que elegiría para implementar el paso en el proyecto 
+
+PASO 1
+Buscar una oficina de registro (Hacer una lista y que el usuario la seleccione)
+
+PASO 2
+Presentar la cédula de identidad y realizar el pago de la firma digital (registrar cedula, generar una firma digital de 16 digitos aleatorios y de tipo numérico. Que tenga método de pago con tarjeta) 
+
+PASO 3
+Que el usuario genere un PIN de 4 digitos para su firma digital 
+
+Paso 4 
+Que se descargue la firma digital para que se pueda usar con el Adobe Reader DC 
